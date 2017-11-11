@@ -1,5 +1,5 @@
-print("hello worldz")
-
 def multiply (a, b):
-	c = a * b
-	return c
+	return a * b
+
+def add(a, b):
+	return a + b
