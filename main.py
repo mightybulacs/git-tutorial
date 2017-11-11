@@ -1,1 +1,4 @@
-print("hello worldz")
+def add(a, b):
+	c = a + b
+
+	return c
